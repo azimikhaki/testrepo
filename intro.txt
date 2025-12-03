@@ -1,0 +1,1 @@
+This file is an introduction file to Git and Github.
